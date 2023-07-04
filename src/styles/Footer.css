@@ -1,0 +1,26 @@
+.footer{
+    background: #0067A3;
+    padding: 10px;
+  }
+
+  .footer .wrapper{
+    align-items: center;
+    height: 7vh;
+    color:white
+  }
+  
+  .footer__counter{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+  }
+
+  .autor {
+    text-decoration: none;
+    color: #fff;    
+  }
+
+  .autor:hover {
+    color: #9b9b9b;
+    transition: 0.5s all;
+  }
